@@ -110,7 +110,7 @@
   spawn: SpaceCashCounterfeit
 
 - type: currency
-  id: Creditt
+  id: Spessos
   displayName: bank-currency-display-spesos-fake
   cash:
     1: SpaceCashCounterfeit
